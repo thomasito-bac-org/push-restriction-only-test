@@ -1,0 +1,1 @@
+# push-restriction-only-test
